@@ -26,11 +26,6 @@ Pandas, NumPy for data processing
 Scikit-learn for machine learning models
 Matplotlib/Seaborn for data visualization
 
-How to Run:
-Clone the repository: git clone https://github.com/Aarya718/Codsoft-projects.git
-Install dependencies: pip install -r requirements.txt
-Run the script for rating prediction: python movie_rating_prediction.py
-Check the evaluation results for accuracy.
 
 2. Sales Prediction
 
@@ -52,11 +47,6 @@ Pandas, NumPy for data manipulation
 Scikit-learn for building regression models
 Matplotlib/Seaborn for visualizing sales trends
 
-How to Run:
-Clone the repository: git clone https://github.com/Aarya718/Codsoft-projects.git
-Install dependencies: pip install -r requirements.txt
-Run the sales prediction model: python sales_prediction.py
-View the results of predicted sales and the evaluation metrics.
 
 3. Credit Card Fraud Prediction
 
@@ -78,33 +68,6 @@ Pandas, NumPy for data handling
 Scikit-learn for machine learning models
 Matplotlib/Seaborn for visualizing fraud detection results
 
-How to Run:
-Clone the repository: git clone https://github.com/Aarya718/Codsoft-projects.git
-Install dependencies: pip install -r requirements.txt
-Run the fraud prediction model: python credit_card_fraud_prediction.py
-Check the performance metrics and analyze the fraud prediction results.
-Installation & Setup
-To run any of the projects, follow these steps:
-
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/Aarya718/Codsoft-projects.git
-Navigate to the project folder:
-
-bash
-Copy
-Edit
-cd Codsoft-projects
-Install the required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the project script for the relevant task (e.g., movie_rating_prediction.py, sales_prediction.py, or credit_card_fraud_prediction.py).
 
 Usage
 Movies Rating Prediction: This model can be used for recommending movies based on predicted ratings.
