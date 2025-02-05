@@ -23,6 +23,7 @@ Clone the repository: git clone https://github.com/Aarya718/Codsoft-projects.git
 Install dependencies: pip install -r requirements.txt
 Run the script for rating prediction: python movie_rating_prediction.py
 Check the evaluation results for accuracy.
+
 2. Sales Prediction
 Overview:
 This project aims to predict future sales based on historical sales data, advertising budgets, and seasonal factors. It can help businesses forecast sales and make informed decisions regarding marketing strategies.
@@ -42,6 +43,7 @@ Clone the repository: git clone https://github.com/Aarya718/Codsoft-projects.git
 Install dependencies: pip install -r requirements.txt
 Run the sales prediction model: python sales_prediction.py
 View the results of predicted sales and the evaluation metrics.
+
 3. Credit Card Fraud Prediction
 Overview:
 This project focuses on identifying fraudulent transactions from credit card transaction data. The goal is to classify whether a transaction is legitimate or fraudulent based on historical data.
