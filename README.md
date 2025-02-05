@@ -1,3 +1,4 @@
+Codsoft Data Science Projects : Aarya Ramchandra Tarphe 
 Projects Overview
 This repository contains three machine learning projects that explore different domains of predictive analytics. Each project applies different algorithms and techniques to solve unique problems. The projects are:
 
