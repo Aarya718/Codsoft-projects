@@ -11,8 +11,11 @@ This project uses machine learning to predict the ratings of movies based on use
 
 Key Features:
 Dataset: Movie ratings from users, including movie features (genre, director, etc.).
+
 Algorithm: Collaborative filtering or regression-based techniques (like Decision Trees or Random Forest).
+
 Objective: Predict ratings of movies that users haven’t watched yet.
+
 Evaluation: Use of Mean Absolute Error (MAE) or Root Mean Squared Error (RMSE) for performance evaluation.
 
 Technologies Used:
@@ -34,8 +37,11 @@ This project aims to predict future sales based on historical sales data, advert
 
 Key Features:
 Dataset: Sales data with features such as previous sales, advertising budgets (TV, radio, newspaper), and time-based trends.
+
 Algorithm: Regression models like Linear Regression, Decision Trees, or Random Forest.
+
 Objective: Predict sales for the next period based on past sales and other influencing factors.
+
 Evaluation: Use of Mean Squared Error (MSE) and R² score to evaluate the prediction accuracy.
 
 Technologies Used:
@@ -57,8 +63,11 @@ This project focuses on identifying fraudulent transactions from credit card tra
 
 Key Features:
 Dataset: Credit card transaction data with features like transaction amount, merchant, and transaction history.
+
 Algorithm: Classification models such as Logistic Regression, Random Forest, or XGBoost.
+
 Objective: Predict fraudulent transactions based on previous transaction patterns.
+
 Evaluation: Use of metrics like Accuracy, Precision, Recall, and F1-Score, with a focus on minimizing false positives.
 
 Technologies Used:
@@ -97,6 +106,8 @@ Run the project script for the relevant task (e.g., movie_rating_prediction.py, 
 
 Usage
 Movies Rating Prediction: This model can be used for recommending movies based on predicted ratings.
+
 Sales Prediction: Helps in predicting sales for the next period based on historical data and other factors.
+
 Credit Card Fraud Prediction: Detects fraudulent credit card transactions, which can be used by banks or financial institutions.
 
