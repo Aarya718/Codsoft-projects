@@ -4,9 +4,12 @@ Projects Overview:
 This repository contains three machine learning projects that explore different domains of predictive analytics. Each project applies different algorithms and techniques to solve unique problems. The projects are:
 
 Movies Rating Prediction
+
 Sales Prediction
+
 Credit Card Fraud Prediction
-1. Movies Rating Prediction
+
+# TASK - 1. Movies Rating Prediction
 
 Overview:
 This project uses machine learning to predict the ratings of movies based on user preferences, genre, and other factors. The goal is to help recommend movies to users based on their predicted ratings for unseen movies.
@@ -27,7 +30,7 @@ Scikit-learn for machine learning models
 Matplotlib/Seaborn for data visualization
 
 
-2. Sales Prediction
+# TASK - 2. Sales Prediction
 
 Overview:
 This project aims to predict future sales based on historical sales data, advertising budgets, and seasonal factors. It can help businesses forecast sales and make informed decisions regarding marketing strategies.
@@ -48,7 +51,7 @@ Scikit-learn for building regression models
 Matplotlib/Seaborn for visualizing sales trends
 
 
-3. Credit Card Fraud Prediction
+# TASK - 3. Credit Card Fraud Prediction
 
 Overview:
 This project focuses on identifying fraudulent transactions from credit card transaction data. The goal is to classify whether a transaction is legitimate or fraudulent based on historical data.
